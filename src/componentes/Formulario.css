@@ -1,0 +1,23 @@
+.contenedor-lista{
+    width: 590px;
+    min-height: 65px;
+    margin: 5px 0;
+    padding: 8px 15px 8px 20px;
+    display: flex;
+    justify-content: space-between;    
+    align-items: center;
+    border-radius: 7px;
+    border: 1px solid lightgray;
+  }
+  .texto-usuario{
+    width: 100%;
+    height: 100%;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    overflow-wrap: anywhere;
+  }
+  
+  .btn{
+    margin: 5px;
+  }
